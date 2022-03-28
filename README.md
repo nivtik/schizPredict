@@ -1,4 +1,5 @@
 # schizPredict
+This repository contains codes released with the following publication: Tik, N., Livny, A., Gal, S., Gigi, K., Tsarfaty, G., Weiser, M., & Tavor, I. (2021). Predicting individual variability in task‐evoked brain activity in schizophrenia. Human brain mapping, 42(12), 3983-3992.
 
 Codes for fMRI preprocessing and individual statistical anaslysis, and classification between patients and controls.
 
